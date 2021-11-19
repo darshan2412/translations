@@ -1,0 +1,24 @@
+model,primary_key,attr,en,ar,id,fil,vi
+Tag,1051,name,Issue with the amount credited,مشكلة بالمبلغ الدائن,Masalah dengan jumlah yang dikreditkan,Isyu sa halaga na naka-credit,Có vấn đề với khoản tiền được trừ
+Tag,1052,name,Issues with payout statement,مشكلات بيان العائد,Masalah dengan laporan pembayaran,Mga isyu sa pagbabayad,Có vấn đề với sao kê tiền trả
+Tag,1053,name,Less scope of earnings,نطاق أقل للأرباح,Cakupan pendapatan yang lebih sedikit,Mas kaunting sakop ng kita,Ít phạm vi kiếm tiền hơn
+Tag,1054,name,Delay in payment,التأخير في السداد,Keterlambatan pembayaran,Pagkaantala ng bayad,Trễ thanh toán
+Tag,1055,name,Transparency in payout statement,الشفافية في بيان الدفع,Transparansi dalam laporan pembayaran,Pagiging tapat sa pagbabayad,Minh bạch trong sao kê tiền trả
+Tag,1056,name,Payment status updates,تحديثات حالة الدفع,Pembaruan status pembayaran,Update sa estado ng bayad,Cập nhật trạng thái thanh toán
+Tag,1057,name,Scope of earnings,نطاق الأرباح,Cakupan pendapatan yang lebih sedikit,Sakop ng kita,Phạm vi kiếm thêm
+Tag,1058,name,On time payment,الدفع في الوقت المحدد,Pembayaran tepat waktu,Napapanahong bayad,Thanh toán đúng giờ
+Tag,1059,name,Unsanitized/Unclean car,سيارة لم يتم تعقيمها / لم يتم تنظيفها,Mobil kotor/tidak bersih,Maduming kotse,Xe không sạch/không vệ sinh
+Tag,1060,name,Late arrivals,الوصول في وقت متأخر,Kedatangan terlambat,Nahuli dumating,Đến trễ
+Tag,1061,name,Issues with car condition,مشاكل في حالة السيارة,Masalah dengan kondisi mobil,Mga problema sa kondisyon ng kotse,Có vấn đề với tình trạng xe
+Tag,1062,name,Issues with Listing summary,مشاكل مع ملخص القائمة,Masalah dengan ringkasan Daftar,Mga isyu sa mga buod ng nakalista,Có vấn đề với tóm tắt xe cho thuê
+Tag,1063,name,Cleaned and sanitized car,سيارة نظيفة ومعقمة,Mobil dibersihkan dan disanitasi,Malinis na kotse,Xe sạch và vệ sinh
+Tag,1064,name,On time car arrivals,وصول السيارة في الوقت المحدد,Kedatangan mobil tepat waktu,Hindi nahuli ang pagdating ng kotse,Xe đến đúng giờ
+Tag,1065,name,Excellent car condition,حالة السيارة ممتازة,Kondisi mobil istimewa,Mahusay na kondisyon ng kotse,Tình trạng xe xuất sắc
+Tag,1066,name,Earnings made,الأرباح المحققة,Penghasilan yang diperoleh,Kita na nagawa,Đã kiếm được tiền
+Tag,1067,name,Car status updates,تحديثات حالة السيارة,Pembaruan status mobil,Update sa estado ng kotse,Cập nhật trạng thái xe
+Tag,1068,name,Booking summary,ملخص الكتاب,Ringkasan pemesanan,Buod ng booking,Tóm tắt lượt đặt xe
+Tag,1069,name,Earnings,الأرباح,Pendapatan,Kita,Kiếm được
+Tag,1070,name,Charges levied,الرسوم المفروضة,dikenakan biaya,Singil na ipinataw,Các khoản phí phải trả
+Tag,1071,name,Timely car status updates,تحديثات حالة السيارة في الوقت المناسب,Pembaruan status mobil tepat waktu,Napapanahong update ng estado ng kotse,Cập nhật tình trạng xe kịp thời
+Tag,1072,name,Amount earned,المبلغ المكتسب,Jumlah yang diperoleh,Halagang kinita,Số tiền kiếm được
+Tag,1073,name,Transparency in booking summary,الشفافية في ملخص الحجز,Transparansi dalam ringkasan pemesanan,Pagiging tapat sa buod ng booking,Minh bạch trong tóm tắt đặt chỗ
