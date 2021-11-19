@@ -1,0 +1,21 @@
+model,primary_key,attr,en,ar,id,fil,vi
+Tag,1102,name,Car came back in a good condition,عادت العربية بحالة جيدة,Mobil kembali dalam kondisi baik,Ang kotse ay dumating sa mabuting kondisyon,Xe trở lại trong tình trạng tốt
+Tag,1103,name,Car pickup and drop-off were smooth,كانت عملية استلام العربية وتسليمها سلسة,Penjemputan dan pengantaran mobil lancar,Ang pag-pickup at pag-drop off ng kotse ay maayos,Nhận và trả xe diễn ra suôn sẻ
+Tag,1104,name,I received sufficient Booking notifications,تلقيت إخطارات حجز كافية,Saya menerima pemberitahuan Pemesanan yang cukup,Nakatanggap ako ng sapat na notipikasyon sa Booking,Tôi đã nhận đủ thông báo Đặt chỗ
+Tag,1085,name,Car came back in a poor condition,عادت العربية في حالة سيئة,Mobil kembali dalam kondisi buruk,Ang kotse ay dumating sa pangit na kondisyon,Xe trở về trong tình trạng tồi tệ
+Tag,1086,name,Car was dirty,كانت العربية متسخة,Mobil kotor,Madumi ang kotse,Xe bẩn
+Tag,1087,name,Car had major dents and damages,تعرضت العربية لخدوش وأضرار كبيرة,Mobil mengalami penyok atau kerusakan besar,Ang kotse ay may mga malalaking yupi at sira,Xe bị móp và hư hỏng nặng
+Tag,1088,name,Keys/other accessories missing/replaced,مفاتيح / ملحقات أخرى مفقودة / مستبدلة,Kunci/aksesoris lainnya hilang/diganti,Ang mga susi/iba pang aksesorya ay nawawala/pinalitan,Chìa khóa / phụ kiện khác bị thiếu / thay thế
+Tag,1089,name,Car came back late,عادت العربية متأخرة,Mobil kembali terlambat,Nahuli dumating ang kotse,Xe về muộn
+Tag,1090,name,Issues with the Renter,مشاكل مع المستأجر,Ada Masalah dengan Penyewa,Mga isyu sa Umuupa,Các vấn đề với Người thuê
+Tag,1091,name,Renter was impolite,كان المستأجر غير مهذب,Penyewa tidak sopan,Hindi magalang ang Umuupa,Người thuê xe bất lịch sự
+Tag,1092,name,Renter tried to reach out to me,حاول المستأجر التواصل معي,Penyewa mencoba menghubungi saya,Ang Umuupa ay sumubok na makipag-ugnayan sa akin,Người thuê đã cố gắng liên hệ với tôi
+Tag,1093,name,Renter handled the car in a bad manner,المستأجر تعامل مع العربية بطريقة سيئة,Penyewa menangani mobil dengan cara yang buruk,Ang Umuupa ay nagmaneho sa masamang paraan,Người thuê đã xử lý chiếc xe một cách tồi tệ
+Tag,1094,name,Issues when the car came back,مشاكل عندما عادت العربية,Ada Masalah saat mobil kembali,May isyu nang ibinalik ang kotse,Vấn đề khi xe quay trở lại
+Tag,1095,name,Car was parked in a wrong location,كانت العربية متوقفة في مكان خاطئ,Mobil diparkir di lokasi yang salah,Ang kotse ay ipinarada sa maling lokasyon,Xe đậu sai vị trí
+Tag,1096,name,Car was not locked or headlights on,لم تكن العربية مقفلة أو المصابيح الأمامية مضاءة,Mobil tidak terkunci atau lampu depan menyala,Ang kotse ay hindi naka-lock at bukas ang headlight,Xe không khóa hoặc không bật đèn pha
+Tag,1097,name,Fuel was lesser than at the booking start,كان الوقود أقل مما كان عليه في بداية الحجز,Bahan bakar lebih rendah dari pada saat pemesanan dimulai,Ang gasolina ay mas kaunti kaysa sa pagsisimula ng booking,Nhiên liệu ít hơn lúc bắt đầu đặt xe
+Tag,1098,name,Had issues with the Host app,واجهت مشاكل مع تطبيق المضيف,Ada masalah dengan aplikasi Host,May mga isyu sa Host app,Gặp sự cố với ứng dụng Máy chủ
+Tag,1099,name,I did not get timely booking notifications,لم أحصل على إخطارات الحجز في الوقت المناسب,Saya tidak mendapatkan pemberitahuan pemesanan tepat waktu,Hindi ako nakakuha ng napapanahong notipikasyon sa booking,Tôi không nhận được thông báo đặt xe kịp thời
+Tag,1100,name,Checklist issues,قضايا قائمة التحقق,Masalah daftar periksa,Isyu sa listahan,Các vấn đề về danh sách kiểm tra
+Tag,1101,name,Booking status not updated,لم يتم تحديث حالة الحجز,Status pemesanan tidak diperbarui,Hindi na-update ang estado ng booking,Trạng thái đặt xe chưa được cập nhật
